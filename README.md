@@ -40,3 +40,4 @@ Final version
 
     deploy on a Github page
 
+Please visit the cretated page under the following [link](https://yuliya-becode.github.io/Star-Wars-Crawl/index.html)
